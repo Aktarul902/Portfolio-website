@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+      <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#22110b"/>
+          <stop offset="1" stop-color="#0e0e0e"/>
+        </linearGradient>
+      </defs>
+      <rect width="1200" height="760" rx="32" fill="#080808"/>
+      <rect x="26" y="26" width="1148" height="708" rx="26" fill="url(#bg)" stroke="#3c2c27"/>
+      <rect x="26" y="26" width="1148" height="70" rx="26" fill="#14110f"/>
+      <text x="65" y="69" fill="#ff7048" font-family="Arial" font-weight="700" font-size="28">STORE/01</text>
+      <text x="825" y="67" fill="#aaa" font-family="Arial" font-size="16">NEW   SHOP   ABOUT   BAG</text>
+      <text x="75" y="190" fill="#f3f0e8" font-family="Arial" font-weight="700" font-size="86">OBJECTS</text>
+      <text x="75" y="270" fill="#f3f0e8" font-family="Arial" font-weight="700" font-size="86">FOR DAILY</text>
+      <text x="75" y="350" fill="#ff7048" font-family="Arial" font-weight="700" font-size="86">LIFE.</text>
+      <g transform="translate(680 145)">
+        <rect width="400" height="330" rx="25" fill="#171717"/>
+        <circle cx="200" cy="150" r="112" fill="#ff7048" opacity=".9"/>
+        <rect x="120" y="80" width="160" height="140" rx="16" fill="#ebe6db" transform="rotate(-9 200 150)"/>
+        <text x="165" y="155" fill="#111" font-family="Arial" font-weight="700" font-size="26" transform="rotate(-9 200 150)">01</text>
+      </g>
+      <g transform="translate(75 440)">
+        <rect width="315" height="205" rx="20" fill="#171717" stroke="#322722"/>
+        <rect x="22" y="22" width="271" height="115" rx="12" fill="#24201e"/>
+        <circle cx="157" cy="80" r="45" fill="#ff7048"/>
+        <text x="22" y="172" fill="#eee" font-family="Arial" font-weight="700" font-size="17">Minimal Object</text>
+      </g>
+      <g transform="translate(415 440)">
+        <rect width="315" height="205" rx="20" fill="#171717" stroke="#322722"/>
+        <rect x="22" y="22" width="271" height="115" rx="12" fill="#24201e"/>
+        <rect x="110" y="46" width="95" height="70" rx="10" fill="#aaa"/>
+        <text x="22" y="172" fill="#eee" font-family="Arial" font-weight="700" font-size="17">Daily Carry</text>
+      </g>
+      <g transform="translate(755 510)">
+        <rect width="325" height="135" rx="20" fill="#ff7048"/>
+        <text x="35" y="80" fill="#080808" font-family="Arial" font-weight="700" font-size="25">EXPLORE →</text>
+      </g>
+    </svg>
